@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-17T22:53:01.161Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="w9QiVDFim04NbthU2fgG" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-17T22:58:20.817Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="oOv6ebipK2pgpwHSPd9w" version="24.5.5" type="github">
   <diagram name="ページ1" id="vGhhu-e2sikLypeqresv">
     <mxGraphModel dx="989" dy="509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -22,11 +22,11 @@
         <mxCell id="5iAIgkceLKGA0K0HC679-4" value="&lt;font color=&quot;#ffffff&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;O&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="521" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5iAIgkceLKGA0K0HC679-5" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;y&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="472" y="478" width="60" height="30" as="geometry" />
+        <mxCell id="5iAIgkceLKGA0K0HC679-5" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;Vertical&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="456" y="501" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5iAIgkceLKGA0K0HC679-6" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;x&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="518" y="528" width="60" height="30" as="geometry" />
+        <mxCell id="5iAIgkceLKGA0K0HC679-6" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Horizontal&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="505" y="541" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
